@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-media-capture",
+  "name": "cordova-plugin-media-capture-vibi",
   "version": "1.0.2-dev",
   "description": "Cordova Media Capture Plugin",
   "cordova": {
-    "id": "cordova-plugin-media-capture",
+    "id": "cordova-plugin-media-capture-vibi",
     "platforms": [
       "android",
       "amazon-fireos",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-media-capture"
+    "url": "https://github.com/OverlappingElvis/cordova-plugin-media-capture"
   },
   "keywords": [
     "cordova",
